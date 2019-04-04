@@ -22,6 +22,6 @@ Recursos y temario del curso **Introducción a Machine Learning con Python** en 
     - [Support Vector Machines](teoria/3.0_aprendizaje_supervisado.ipynb#Support-Vector-Machines)
     - [Árboles de decisión](teoria/3.0_aprendizaje_supervisado.ipynb#Árboles-de-decisión)
     - [K-nearest neighbors](teoria/3.0_aprendizaje_supervisado.ipynb#K-nearest-neighbors)
-- [Aprendizaje no supervisado](teoria/4_aprendizaje_no_supervisado.ipynb)
+- [Aprendizaje no supervisado](teoria/4.0_aprendizaje_no_supervisado.ipynb)
     - PCA
     - k-means
