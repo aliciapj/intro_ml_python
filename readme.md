@@ -1,7 +1,7 @@
 Introducción a Machine Learning con Python
 ================
 
-Recursos y temario del curso **Introducción a Machine Learning con Python** en Kairós.
+Recursos y temario del curso **Introducción a Machine Learning con Python**.
 
 ### Temario
 - [Introducción a Python](teoria/1.0_intro_python.ipynb)
